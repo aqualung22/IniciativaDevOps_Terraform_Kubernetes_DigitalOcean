@@ -22,3 +22,5 @@ Instalado um local Provider para obter da Digital Ocean o arquivo de configuraç
 Realizado o deployment de uma aplicação NodeJs e de um banco de dados PostgreSQL em um cluster Kubernetes e verificado o estado dos nodes, pods, service, deployment, load balancer e conferido o acesso externo à aplicação pelo navegador.
 
 
+![](Terraform_Kubernetes_DigitalOcean.png)
+
