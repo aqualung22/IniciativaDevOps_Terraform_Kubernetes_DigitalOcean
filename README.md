@@ -13,7 +13,7 @@ A IaC foi declarada utilizando a linguagem proprietária HCL - Hashicorp Configu
 
 Instalado o cloud Provider da Digital Ocean, para vincular o acesso da máquina local Linux à cloud.
 
-Declarada e aplicada a configuração inicial da infraestrutura, com recurso Size padrão. Logo após, foi acrescentado um Nodepool Premium e verificado que sua aplicação seria efetivada "à quente".
+Declarada e aplicada a configuração inicial da infraestrutura, com recurso Size padrão. Logo após, foi acrescentado um Node pool Premium e verificado que sua aplicação seria efetivada "à quente".
 
 Reutilização de código e parametrização: token de acesso, nome do cluster Kubernetes e da região do cloud provider extraídos para outro arquivo.
 
