@@ -3,11 +3,15 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Prerequisites](#pre-requisites)
-3. [Installation](#infrastructure-setup)
-4. [Prerequisites](#deployment-configuration)
-5. [Prerequisites](#terraform-configuration)
-4. [Usage](#usage)
+2. [Pre-requisites](#pre-requisites)
+3. [Infrastructure Setup](#infrastructure-setup)
+4. [Terraform Configuration](#terraform-configuration)
+5. [Deployment Configuration](#deployment-configuration)
+6. [Usage](#usage)
+7. [Results](#results)
+8. [Security Issues](#security-issues)
+9. [Disclaimer](#disclaimer)
+
 
 
 ## Introduction
